@@ -1,2 +1,2 @@
-# crm-company-intelligence
-Built a Python-based CRM Company Intelligence Platform that enriches company data using public web sources, web scraping, APIs, and Excel exports to support sales prospecting and account research.
+# Account_Enrichment_App
+Account enrichment platform that fetches company websites, LinkedIn profiles, contact details, employee size, headquarters information, and recent news from public web sources and exports the results to Excel helping sales team to take effective decisions by finding right audience.
